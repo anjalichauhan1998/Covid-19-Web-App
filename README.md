@@ -1,1 +1,1 @@
-# Covid-19-Web-App
+# Covid-19Project
